@@ -8,7 +8,6 @@
 ***/
 #ifndef Portfolio_h
 #define Portfolio_h
-
 #include <string>
 #include <exception>
 #include <unordered_map>
